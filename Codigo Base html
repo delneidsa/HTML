@@ -1,14 +1,33 @@
 
 <!DOCTYPE html>
 <html lang="pt-br">
+  <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>document</title>
+
+</head>
 
 
+  <body>
+    <h1> Olá mundo ! </h1>
+
+
+
+  <\body>
 
 
 </html>
 
 
 Algumas informações
+
+body - corpo 
+head - cabeça - area de configurações
+<meta charset="UTF-8"> - Essa linha da compatibilidade com acentuações como ç,ã.
+<meta name="viewport" content="width=device-width, initial-scale=1,0" /> -site vai ser visualizado na escala de 100 por cento
+
+
 
 abertura de tag / conteudo / fechamento de tag.
 <h1> exemplo de titulo </h1>
