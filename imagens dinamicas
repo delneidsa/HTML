@@ -1,0 +1,11 @@
+<h1>Imagens dinamicas</h1>
+    <picture>
+        <!-- Este elemento source é para telas com uma largura mínima de 750 pixels -->
+        <source media="(max-width: 750px)" srcset="IMAGENS/300.png" type="image/png">
+    
+        <!-- Este elemento source é para telas com uma largura máxima de 1050 pixels -->
+        <source media="(max-width: 1050px)" srcset="IMAGENS/700.png" type="image/png">
+    
+        <!-- Esta é a imagem padrão que será usada se nenhuma das condições acima for atendida -->
+        <img src="IMAGENS/1000X.png" alt="">
+    </picture>
